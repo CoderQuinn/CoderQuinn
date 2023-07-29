@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💼 Mobile end engineer at [Firewalla](https://firewalla.com/)
 
-- 🌱 I’m currently relearning Swift and SwiftUI. 
+- 🌱 I’m currently relearning Swift and Design pattern. 
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
 
