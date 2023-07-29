@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
   ### About me
 
-- 💼 Mobile end engineer at [Firewalla](https://firewalla.com/).
+- 💼 Mobile end engineer at [Firewalla](https://firewalla.com/)
 
-- 🌱 I’m currently learning node.js and a little of knowledges on back-end.
+- 🌱 I’m currently relearning Swift and SwiftUI. 
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
 
