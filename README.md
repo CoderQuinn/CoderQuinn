@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
   ### About me
 
-- 💼 Mobile end engineer at [Firewalla](https://firewalla.com/)
-
 - 🌱 I’m currently relearning Swift, Design pattern, Node.js.
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
