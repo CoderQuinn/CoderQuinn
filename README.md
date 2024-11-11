@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
   ### About me
 
-- 🌱 I’m currently relearning Swift, Design pattern, Node.js.
+- 🌱 I’m currently relearning Swift, SwiftUI, Design pattern, RN, Flutter.
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
