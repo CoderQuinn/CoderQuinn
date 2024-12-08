@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
   ### About me
 
-- 🌱 I’m currently relearning Design patterns, Swift & SwiftUI, something about Cross-platform(Flutter and RN).
+- 🌱 I’m currently relearning Design patterns, Swift, Cross-platform(Flutter and ReactNative).
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
