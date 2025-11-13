@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
   ### About me
 
-- 🌱 I’m currently relearning Design patterns, Swift, Cross-platform(Flutter and ReactNative).
+- 🌱 I’m currently relearning SwiftUI and plan to implement a QuantumLink app, which will be a super AI network vpn proxy.
 
 - 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
