@@ -1,27 +1,28 @@
-<!--
-**CoderQuinn/CoderQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I’m an iOS/macOS engineer focused on user-space networking and system-level architecture.
 
-- 🔭 I’m currently working on ...
+Currently working on the networking foundation of a macOS VPN project (QuantumLink),
+including TUN-based traffic handling, TCP/UDP flows, and DNS policy design.
 
-- 🌱 I’m currently learning ...
+I care a lot about correctness, backpressure, and long-term maintainability.
 
-- 👯 I’m looking to collaborate on ...
 
-- 🤔 I’m looking for help with ...
+## What I’m working on
 
-- 💬 Ask me about ...
+- Low-level networking infrastructure (TUN, TCP/UDP, DNS)
+- Swift-based system architecture (SwiftNIO, async event loops)
+- Building solid foundations before product and UI layers
 
-- 📫 How to reach me: ...
 
-- 😄 Pronouns: ...
+## Interests
 
-- ⚡ Fun fact: ...
-  -->
+- User-space network stacks
+- VPN / proxy internals
+- System design and performance
+- Long-term: automation and intelligent policy layers
 
-  ### About me
 
-- 🌱 I’m currently relearning SwiftUI and plan to implement a QuantumLink macOS app, which will be a super AI network vpn proxy.
+## Contact
 
-- 💬 Ask me about anything [here](https://github.com/CoderQuinn/CoderQuinn/issues).
+💬 Feel free to open an issue or discussion if you want to talk about networking or architecture.
