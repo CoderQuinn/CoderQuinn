@@ -5,8 +5,7 @@ I’m an iOS/macOS engineer focused on user-space networking and system-level ar
 Currently working on the networking foundation of a macOS VPN project (QuantumLink),
 including TUN-based traffic handling, TCP/UDP flows, and DNS policy design.
 
-I care a lot about correctness, backpressure, and long-term maintainability.
-
+I care deeply about correctness, backpressure, and long-term maintainability.
 
 ## What I’m working on
 
